@@ -4,7 +4,7 @@
 
 ### Description
 
-Vue.js front-end application for [Bikeramp](https://github.com/jedrekdomanski/bikeramp).
+Vue.js front-end application for Bikeramp.
 
 ### Technology
 
